@@ -1,5 +1,8 @@
 ## 1.26.0 [unreleased]
 
+### Documentation
+1. [#397](https://github.com/influxdata/influxdb-client-python/pull/397): Add an example: How to use RxPY to prepare batches by maximum bytes count
+
 ## 1.25.0 [2022-01-20]
 
 ### Features
